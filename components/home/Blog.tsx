@@ -55,7 +55,7 @@ export default function Blog() {
                 <span className="text-neutral-grayish-blue text-xs">
                   {article.author}
                 </span>
-                <h4 className="text-primary-dark-blue text-sm py-2 hover:text-green-400">
+                <h4 className="text-primary-dark-blue text-sm py-2 hover:text-emerald-400">
                   <a href="#">{article.title}</a>
                 </h4>
                 <p className="text-neutral-grayish-blue text-xs">
